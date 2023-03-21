@@ -2,8 +2,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-import org.json.JSONObject;
-
+import java.util.Scanner;
 public class TBADataRetriever {
     public static void main(String[] args) {
         // Replace <YOUR_API_KEY> with your actual TBA API key
